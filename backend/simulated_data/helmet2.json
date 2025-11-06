@@ -1,0 +1,9 @@
+{
+    "helmet_id": "H2",
+    "temperature": 29.4,
+    "humidity": 60.2,
+    "mq2_value": 180,
+    "flame_detected": false,
+    "alert_status": "Normal"
+  }
+  

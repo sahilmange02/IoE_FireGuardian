@@ -1,0 +1,810 @@
+{
+    "helmet_id": "H1",
+    "history": [
+        {
+            "timestamp": "16:15:20",
+            "temperature": 26.2,
+            "mq2_value": 84,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:15:22",
+            "temperature": 26.2,
+            "mq2_value": 84,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:15:24",
+            "temperature": 26.2,
+            "mq2_value": 84,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:15:26",
+            "temperature": 26.2,
+            "mq2_value": 83,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:15:28",
+            "temperature": 26.2,
+            "mq2_value": 84,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:15:30",
+            "temperature": 26.2,
+            "mq2_value": 83,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:15:32",
+            "temperature": 26.2,
+            "mq2_value": 83,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:15:35",
+            "temperature": 26.2,
+            "mq2_value": 84,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:15:37",
+            "temperature": 26.2,
+            "mq2_value": 83,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:15:39",
+            "temperature": 26.2,
+            "mq2_value": 83,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:15:41",
+            "temperature": 26.2,
+            "mq2_value": 83,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:15:43",
+            "temperature": 26.2,
+            "mq2_value": 83,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:15:45",
+            "temperature": 26.2,
+            "mq2_value": 83,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:15:47",
+            "temperature": 26.2,
+            "mq2_value": 83,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:15:49",
+            "temperature": 26.2,
+            "mq2_value": 82,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:15:52",
+            "temperature": 26.2,
+            "mq2_value": 83,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:15:54",
+            "temperature": 26.2,
+            "mq2_value": 83,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:15:56",
+            "temperature": 26.2,
+            "mq2_value": 83,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:15:58",
+            "temperature": 26.2,
+            "mq2_value": 83,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:16:00",
+            "temperature": 26.2,
+            "mq2_value": 83,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:16:02",
+            "temperature": 26.2,
+            "mq2_value": 83,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:16:04",
+            "temperature": 26.2,
+            "mq2_value": 83,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:16:07",
+            "temperature": 26.2,
+            "mq2_value": 83,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:16:09",
+            "temperature": 26.2,
+            "mq2_value": 83,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:16:11",
+            "temperature": 26.2,
+            "mq2_value": 83,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:16:13",
+            "temperature": 26.2,
+            "mq2_value": 83,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:16:15",
+            "temperature": 26.2,
+            "mq2_value": 83,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:16:17",
+            "temperature": 26.2,
+            "mq2_value": 83,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:16:19",
+            "temperature": 26.2,
+            "mq2_value": 82,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:16:22",
+            "temperature": 26.2,
+            "mq2_value": 83,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:16:24",
+            "temperature": 26.2,
+            "mq2_value": 84,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:16:26",
+            "temperature": 26.2,
+            "mq2_value": 84,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:16:28",
+            "temperature": 26.1,
+            "mq2_value": 83,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:16:30",
+            "temperature": 26.1,
+            "mq2_value": 83,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:16:32",
+            "temperature": 26.2,
+            "mq2_value": 83,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:16:34",
+            "temperature": 26.2,
+            "mq2_value": 83,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:16:37",
+            "temperature": 26.2,
+            "mq2_value": 83,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:16:39",
+            "temperature": 26.2,
+            "mq2_value": 83,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:16:41",
+            "temperature": 26.2,
+            "mq2_value": 83,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:16:43",
+            "temperature": 26.2,
+            "mq2_value": 82,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:16:45",
+            "temperature": 26.2,
+            "mq2_value": 82,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:16:47",
+            "temperature": 26.2,
+            "mq2_value": 85,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:16:49",
+            "temperature": 26.2,
+            "mq2_value": 85,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:16:52",
+            "temperature": 26.2,
+            "mq2_value": 85,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:16:54",
+            "temperature": 26.2,
+            "mq2_value": 85,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:16:56",
+            "temperature": 26.2,
+            "mq2_value": 85,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:16:58",
+            "temperature": 26.2,
+            "mq2_value": 85,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:17:00",
+            "temperature": 26.2,
+            "mq2_value": 85,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:17:02",
+            "temperature": 26.2,
+            "mq2_value": 85,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:17:04",
+            "temperature": 26.2,
+            "mq2_value": 85,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:17:06",
+            "temperature": 26.2,
+            "mq2_value": 86,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:17:09",
+            "temperature": 26.2,
+            "mq2_value": 86,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:17:11",
+            "temperature": 26.2,
+            "mq2_value": 86,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:17:13",
+            "temperature": 26.2,
+            "mq2_value": 86,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:17:15",
+            "temperature": 26.2,
+            "mq2_value": 86,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:17:17",
+            "temperature": 26.2,
+            "mq2_value": 85,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:17:19",
+            "temperature": 26.2,
+            "mq2_value": 86,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:17:21",
+            "temperature": 26.2,
+            "mq2_value": 85,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:17:24",
+            "temperature": 26.1,
+            "mq2_value": 85,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:17:26",
+            "temperature": 26.1,
+            "mq2_value": 85,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:17:28",
+            "temperature": 26.1,
+            "mq2_value": 85,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:17:30",
+            "temperature": 26.1,
+            "mq2_value": 85,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:17:32",
+            "temperature": 26.2,
+            "mq2_value": 85,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:17:34",
+            "temperature": 26.1,
+            "mq2_value": 85,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:17:36",
+            "temperature": 26.1,
+            "mq2_value": 85,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:17:39",
+            "temperature": 26.1,
+            "mq2_value": 86,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:17:41",
+            "temperature": 26.2,
+            "mq2_value": 85,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:17:43",
+            "temperature": 26.2,
+            "mq2_value": 86,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:17:45",
+            "temperature": 26.1,
+            "mq2_value": 86,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:17:47",
+            "temperature": 26.2,
+            "mq2_value": 86,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:17:49",
+            "temperature": 26.2,
+            "mq2_value": 86,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:17:51",
+            "temperature": 26.2,
+            "mq2_value": 86,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:17:54",
+            "temperature": 26.2,
+            "mq2_value": 86,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:17:56",
+            "temperature": 26.2,
+            "mq2_value": 85,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:17:58",
+            "temperature": 26.2,
+            "mq2_value": 85,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:18:00",
+            "temperature": 26.2,
+            "mq2_value": 85,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:18:02",
+            "temperature": 26.2,
+            "mq2_value": 85,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:18:04",
+            "temperature": 26.2,
+            "mq2_value": 85,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:18:06",
+            "temperature": 26.2,
+            "mq2_value": 85,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:18:08",
+            "temperature": 26.2,
+            "mq2_value": 85,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:18:11",
+            "temperature": 26.2,
+            "mq2_value": 85,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:18:13",
+            "temperature": 26.2,
+            "mq2_value": 85,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:18:15",
+            "temperature": 26.2,
+            "mq2_value": 86,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:18:17",
+            "temperature": 26.2,
+            "mq2_value": 85,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:18:19",
+            "temperature": 26.2,
+            "mq2_value": 86,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:18:21",
+            "temperature": 26.2,
+            "mq2_value": 85,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:18:23",
+            "temperature": 26.3,
+            "mq2_value": 86,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:18:26",
+            "temperature": 26.2,
+            "mq2_value": 86,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:18:28",
+            "temperature": 26.2,
+            "mq2_value": 85,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:18:30",
+            "temperature": 26.2,
+            "mq2_value": 85,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:18:32",
+            "temperature": 26.2,
+            "mq2_value": 85,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:18:34",
+            "temperature": 26.2,
+            "mq2_value": 85,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:18:36",
+            "temperature": 26.3,
+            "mq2_value": 85,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:18:38",
+            "temperature": 26.2,
+            "mq2_value": 85,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:18:41",
+            "temperature": 26.2,
+            "mq2_value": 85,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:18:43",
+            "temperature": 26.2,
+            "mq2_value": 86,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:18:45",
+            "temperature": 26.2,
+            "mq2_value": 85,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:18:47",
+            "temperature": 26.2,
+            "mq2_value": 86,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:18:49",
+            "temperature": 26.3,
+            "mq2_value": 85,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:18:51",
+            "temperature": 26.2,
+            "mq2_value": 85,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:18:53",
+            "temperature": 26.3,
+            "mq2_value": 86,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:18:56",
+            "temperature": 26.3,
+            "mq2_value": 86,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:18:58",
+            "temperature": 26.2,
+            "mq2_value": 86,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:19:00",
+            "temperature": 26.2,
+            "mq2_value": 86,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:19:02",
+            "temperature": 26.2,
+            "mq2_value": 86,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:19:04",
+            "temperature": 26.3,
+            "mq2_value": 85,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:19:06",
+            "temperature": 26.2,
+            "mq2_value": 86,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:19:08",
+            "temperature": 26.3,
+            "mq2_value": 86,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:19:10",
+            "temperature": 26.2,
+            "mq2_value": 86,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:19:13",
+            "temperature": 26.3,
+            "mq2_value": 86,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:19:15",
+            "temperature": 26.2,
+            "mq2_value": 86,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:19:17",
+            "temperature": 26.2,
+            "mq2_value": 86,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:19:19",
+            "temperature": 26.2,
+            "mq2_value": 86,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:19:21",
+            "temperature": 26.2,
+            "mq2_value": 86,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:19:23",
+            "temperature": 26.3,
+            "mq2_value": 86,
+            "flame_detected": false,
+            "alert_status": "ALERT"
+        }
+    ]
+}
