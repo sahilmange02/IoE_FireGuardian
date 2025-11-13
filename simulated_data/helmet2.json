@@ -1,0 +1,12 @@
+{
+    "helmet_id": "H2",
+    "name": "Alex Smith",
+    "temperature": 29.4,
+    "humidity": 60.2,
+    "mq2_value": 180,
+    "flame_detected": false,
+    "alert_status": "Normal",
+    "heartRate": 72,
+    "spo2": 98
+  }
+  

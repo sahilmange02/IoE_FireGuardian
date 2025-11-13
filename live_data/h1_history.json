@@ -1,0 +1,1013 @@
+{
+    "helmet_id": "H1",
+    "name": "John Doe",
+    "temperature": 35.0,
+    "humidity": 0,
+    "mq2_value": 149,
+    "flame_detected": false,
+    "alert_status": "ALERT",
+    "heartRate": 65.0,
+    "spo2": 100.0,
+    "history": [
+        {
+            "timestamp": "16:42:01",
+            "temperature": 40.0,
+            "mq2_value": 121,
+            "flame_detected": false,
+            "heart_rate": 60.0,
+            "heart_rate_avg": 60.0,
+            "spo2": 98.6,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:42:03",
+            "temperature": 38.1,
+            "mq2_value": 123,
+            "flame_detected": false,
+            "heart_rate": 61.0,
+            "heart_rate_avg": 61.0,
+            "spo2": 98.8,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:42:05",
+            "temperature": 39.5,
+            "mq2_value": 123,
+            "flame_detected": false,
+            "heart_rate": 61.0,
+            "heart_rate_avg": 61.0,
+            "spo2": 98.4,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:42:07",
+            "temperature": 37.5,
+            "mq2_value": 124,
+            "flame_detected": false,
+            "heart_rate": 60.0,
+            "heart_rate_avg": 60.0,
+            "spo2": 98.2,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:42:09",
+            "temperature": 35.7,
+            "mq2_value": 110,
+            "flame_detected": false,
+            "heart_rate": 62.5,
+            "heart_rate_avg": 62.0,
+            "spo2": 98.8,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:42:11",
+            "temperature": 39.7,
+            "mq2_value": 139,
+            "flame_detected": false,
+            "heart_rate": 65.0,
+            "heart_rate_avg": 65.0,
+            "spo2": 98.2,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:42:13",
+            "temperature": 38.1,
+            "mq2_value": 147,
+            "flame_detected": false,
+            "heart_rate": 64.0,
+            "heart_rate_avg": 64.0,
+            "spo2": 98.6,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:42:15",
+            "temperature": 39.7,
+            "mq2_value": 178,
+            "flame_detected": false,
+            "heart_rate": 62.0,
+            "heart_rate_avg": 62.0,
+            "spo2": 99.0,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:42:17",
+            "temperature": 38.7,
+            "mq2_value": 161,
+            "flame_detected": false,
+            "heart_rate": 61.5,
+            "heart_rate_avg": 61.0,
+            "spo2": 98.4,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:42:19",
+            "temperature": 37.0,
+            "mq2_value": 157,
+            "flame_detected": false,
+            "heart_rate": 60.0,
+            "heart_rate_avg": 60.0,
+            "spo2": 99.0,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:42:21",
+            "temperature": 39.1,
+            "mq2_value": 152,
+            "flame_detected": false,
+            "heart_rate": 60.0,
+            "heart_rate_avg": 60.0,
+            "spo2": 99.4,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:42:23",
+            "temperature": 35.3,
+            "mq2_value": 178,
+            "flame_detected": false,
+            "heart_rate": 62.5,
+            "heart_rate_avg": 62.0,
+            "spo2": 100.0,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:42:25",
+            "temperature": 37.1,
+            "mq2_value": 157,
+            "flame_detected": false,
+            "heart_rate": 65.0,
+            "heart_rate_avg": 65.0,
+            "spo2": 99.8,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:42:27",
+            "temperature": 39.5,
+            "mq2_value": 160,
+            "flame_detected": false,
+            "heart_rate": 67.5,
+            "heart_rate_avg": 67.0,
+            "spo2": 100.0,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:42:29",
+            "temperature": 38.5,
+            "mq2_value": 172,
+            "flame_detected": false,
+            "heart_rate": 65.0,
+            "heart_rate_avg": 65.0,
+            "spo2": 100.0,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:42:31",
+            "temperature": 37.7,
+            "mq2_value": 177,
+            "flame_detected": false,
+            "heart_rate": 65.5,
+            "heart_rate_avg": 65.0,
+            "spo2": 100.0,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:42:33",
+            "temperature": 37.6,
+            "mq2_value": 163,
+            "flame_detected": false,
+            "heart_rate": 67.5,
+            "heart_rate_avg": 67.0,
+            "spo2": 99.6,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:42:35",
+            "temperature": 37.2,
+            "mq2_value": 161,
+            "flame_detected": false,
+            "heart_rate": 68.0,
+            "heart_rate_avg": 68.0,
+            "spo2": 99.0,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:42:37",
+            "temperature": 36.1,
+            "mq2_value": 148,
+            "flame_detected": false,
+            "heart_rate": 67.5,
+            "heart_rate_avg": 67.0,
+            "spo2": 98.4,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:42:39",
+            "temperature": 36.7,
+            "mq2_value": 148,
+            "flame_detected": false,
+            "heart_rate": 68.0,
+            "heart_rate_avg": 68.0,
+            "spo2": 99.0,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:42:41",
+            "temperature": 37.6,
+            "mq2_value": 151,
+            "flame_detected": false,
+            "heart_rate": 69.0,
+            "heart_rate_avg": 69.0,
+            "spo2": 99.2,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:42:43",
+            "temperature": 36.0,
+            "mq2_value": 150,
+            "flame_detected": false,
+            "heart_rate": 67.5,
+            "heart_rate_avg": 67.0,
+            "spo2": 99.8,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:42:45",
+            "temperature": 37.1,
+            "mq2_value": 149,
+            "flame_detected": false,
+            "heart_rate": 67.0,
+            "heart_rate_avg": 67.0,
+            "spo2": 100.0,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:42:47",
+            "temperature": 39.1,
+            "mq2_value": 144,
+            "flame_detected": false,
+            "heart_rate": 66.0,
+            "heart_rate_avg": 66.0,
+            "spo2": 100.0,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:42:49",
+            "temperature": 36.3,
+            "mq2_value": 141,
+            "flame_detected": false,
+            "heart_rate": 63.5,
+            "heart_rate_avg": 63.0,
+            "spo2": 100.0,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:42:51",
+            "temperature": 38.8,
+            "mq2_value": 143,
+            "flame_detected": false,
+            "heart_rate": 62.0,
+            "heart_rate_avg": 62.0,
+            "spo2": 99.8,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:42:53",
+            "temperature": 39.7,
+            "mq2_value": 139,
+            "flame_detected": false,
+            "heart_rate": 62.5,
+            "heart_rate_avg": 62.0,
+            "spo2": 99.8,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:42:55",
+            "temperature": 37.5,
+            "mq2_value": 139,
+            "flame_detected": false,
+            "heart_rate": 63.0,
+            "heart_rate_avg": 63.0,
+            "spo2": 100.0,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:42:57",
+            "temperature": 39.5,
+            "mq2_value": 140,
+            "flame_detected": false,
+            "heart_rate": 65.5,
+            "heart_rate_avg": 65.0,
+            "spo2": 100.0,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:42:59",
+            "temperature": 35.3,
+            "mq2_value": 140,
+            "flame_detected": false,
+            "heart_rate": 63.5,
+            "heart_rate_avg": 63.0,
+            "spo2": 99.6,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:43:01",
+            "temperature": 37.7,
+            "mq2_value": 139,
+            "flame_detected": false,
+            "heart_rate": 61.5,
+            "heart_rate_avg": 61.0,
+            "spo2": 99.8,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:43:03",
+            "temperature": 35.3,
+            "mq2_value": 139,
+            "flame_detected": false,
+            "heart_rate": 64.0,
+            "heart_rate_avg": 64.0,
+            "spo2": 99.2,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:43:05",
+            "temperature": 35.3,
+            "mq2_value": 141,
+            "flame_detected": false,
+            "heart_rate": 65.5,
+            "heart_rate_avg": 65.0,
+            "spo2": 98.6,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:43:07",
+            "temperature": 36.1,
+            "mq2_value": 144,
+            "flame_detected": false,
+            "heart_rate": 63.5,
+            "heart_rate_avg": 63.0,
+            "spo2": 98.2,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:43:10",
+            "temperature": 39.4,
+            "mq2_value": 147,
+            "flame_detected": false,
+            "heart_rate": 61.0,
+            "heart_rate_avg": 61.0,
+            "spo2": 98.4,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:43:12",
+            "temperature": 35.3,
+            "mq2_value": 148,
+            "flame_detected": false,
+            "heart_rate": 62.5,
+            "heart_rate_avg": 62.0,
+            "spo2": 99.0,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:43:14",
+            "temperature": 35.0,
+            "mq2_value": 148,
+            "flame_detected": false,
+            "heart_rate": 60.5,
+            "heart_rate_avg": 60.0,
+            "spo2": 98.8,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:43:16",
+            "temperature": 39.2,
+            "mq2_value": 148,
+            "flame_detected": false,
+            "heart_rate": 60.0,
+            "heart_rate_avg": 60.0,
+            "spo2": 99.4,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:43:18",
+            "temperature": 40.0,
+            "mq2_value": 149,
+            "flame_detected": false,
+            "heart_rate": 61.0,
+            "heart_rate_avg": 61.0,
+            "spo2": 99.8,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:43:20",
+            "temperature": 35.8,
+            "mq2_value": 152,
+            "flame_detected": false,
+            "heart_rate": 61.0,
+            "heart_rate_avg": 61.0,
+            "spo2": 100.0,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:43:22",
+            "temperature": 40.0,
+            "mq2_value": 153,
+            "flame_detected": false,
+            "heart_rate": 62.0,
+            "heart_rate_avg": 62.0,
+            "spo2": 99.6,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:43:24",
+            "temperature": 35.8,
+            "mq2_value": 159,
+            "flame_detected": false,
+            "heart_rate": 64.5,
+            "heart_rate_avg": 64.0,
+            "spo2": 99.0,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:43:26",
+            "temperature": 37.7,
+            "mq2_value": 160,
+            "flame_detected": false,
+            "heart_rate": 67.0,
+            "heart_rate_avg": 67.0,
+            "spo2": 99.6,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:43:28",
+            "temperature": 37.9,
+            "mq2_value": 160,
+            "flame_detected": false,
+            "heart_rate": 64.5,
+            "heart_rate_avg": 64.0,
+            "spo2": 99.8,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:43:30",
+            "temperature": 38.5,
+            "mq2_value": 158,
+            "flame_detected": false,
+            "heart_rate": 64.5,
+            "heart_rate_avg": 64.0,
+            "spo2": 100.0,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:43:32",
+            "temperature": 38.8,
+            "mq2_value": 157,
+            "flame_detected": false,
+            "heart_rate": 67.0,
+            "heart_rate_avg": 67.0,
+            "spo2": 99.4,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:43:34",
+            "temperature": 38.7,
+            "mq2_value": 158,
+            "flame_detected": false,
+            "heart_rate": 65.0,
+            "heart_rate_avg": 65.0,
+            "spo2": 99.6,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:43:36",
+            "temperature": 40.0,
+            "mq2_value": 157,
+            "flame_detected": false,
+            "heart_rate": 67.5,
+            "heart_rate_avg": 67.0,
+            "spo2": 99.2,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:43:38",
+            "temperature": 36.1,
+            "mq2_value": 158,
+            "flame_detected": false,
+            "heart_rate": 65.5,
+            "heart_rate_avg": 65.0,
+            "spo2": 99.8,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:43:40",
+            "temperature": 39.0,
+            "mq2_value": 160,
+            "flame_detected": false,
+            "heart_rate": 65.0,
+            "heart_rate_avg": 65.0,
+            "spo2": 99.8,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:43:42",
+            "temperature": 40.0,
+            "mq2_value": 160,
+            "flame_detected": false,
+            "heart_rate": 67.0,
+            "heart_rate_avg": 67.0,
+            "spo2": 100.0,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:43:44",
+            "temperature": 35.8,
+            "mq2_value": 158,
+            "flame_detected": false,
+            "heart_rate": 65.5,
+            "heart_rate_avg": 65.0,
+            "spo2": 99.8,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:43:46",
+            "temperature": 36.0,
+            "mq2_value": 159,
+            "flame_detected": false,
+            "heart_rate": 64.5,
+            "heart_rate_avg": 64.0,
+            "spo2": 99.4,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:43:48",
+            "temperature": 39.0,
+            "mq2_value": 159,
+            "flame_detected": false,
+            "heart_rate": 65.0,
+            "heart_rate_avg": 65.0,
+            "spo2": 99.4,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:43:50",
+            "temperature": 37.4,
+            "mq2_value": 159,
+            "flame_detected": false,
+            "heart_rate": 66.5,
+            "heart_rate_avg": 66.0,
+            "spo2": 98.8,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:43:52",
+            "temperature": 37.4,
+            "mq2_value": 158,
+            "flame_detected": false,
+            "heart_rate": 64.5,
+            "heart_rate_avg": 64.0,
+            "spo2": 98.6,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:43:54",
+            "temperature": 35.6,
+            "mq2_value": 159,
+            "flame_detected": false,
+            "heart_rate": 62.5,
+            "heart_rate_avg": 62.0,
+            "spo2": 99.0,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:43:56",
+            "temperature": 39.2,
+            "mq2_value": 161,
+            "flame_detected": false,
+            "heart_rate": 62.0,
+            "heart_rate_avg": 62.0,
+            "spo2": 98.8,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:43:58",
+            "temperature": 38.8,
+            "mq2_value": 161,
+            "flame_detected": false,
+            "heart_rate": 61.0,
+            "heart_rate_avg": 61.0,
+            "spo2": 98.4,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:44:00",
+            "temperature": 37.7,
+            "mq2_value": 160,
+            "flame_detected": false,
+            "heart_rate": 61.5,
+            "heart_rate_avg": 61.0,
+            "spo2": 98.4,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:44:02",
+            "temperature": 37.5,
+            "mq2_value": 160,
+            "flame_detected": false,
+            "heart_rate": 64.0,
+            "heart_rate_avg": 64.0,
+            "spo2": 98.2,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:44:04",
+            "temperature": 35.3,
+            "mq2_value": 160,
+            "flame_detected": false,
+            "heart_rate": 65.5,
+            "heart_rate_avg": 65.0,
+            "spo2": 97.8,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:44:06",
+            "temperature": 37.2,
+            "mq2_value": 159,
+            "flame_detected": false,
+            "heart_rate": 64.5,
+            "heart_rate_avg": 64.0,
+            "spo2": 98.2,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:44:08",
+            "temperature": 35.9,
+            "mq2_value": 160,
+            "flame_detected": false,
+            "heart_rate": 63.0,
+            "heart_rate_avg": 63.0,
+            "spo2": 98.8,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:44:10",
+            "temperature": 39.7,
+            "mq2_value": 161,
+            "flame_detected": false,
+            "heart_rate": 63.0,
+            "heart_rate_avg": 63.0,
+            "spo2": 98.4,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:44:12",
+            "temperature": 36.5,
+            "mq2_value": 161,
+            "flame_detected": false,
+            "heart_rate": 64.5,
+            "heart_rate_avg": 64.0,
+            "spo2": 98.0,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:44:14",
+            "temperature": 39.2,
+            "mq2_value": 162,
+            "flame_detected": false,
+            "heart_rate": 66.0,
+            "heart_rate_avg": 66.0,
+            "spo2": 97.8,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:44:16",
+            "temperature": 36.4,
+            "mq2_value": 161,
+            "flame_detected": false,
+            "heart_rate": 65.5,
+            "heart_rate_avg": 65.0,
+            "spo2": 97.6,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:44:19",
+            "temperature": 37.8,
+            "mq2_value": 161,
+            "flame_detected": false,
+            "heart_rate": 64.5,
+            "heart_rate_avg": 64.0,
+            "spo2": 97.6,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:44:21",
+            "temperature": 38.9,
+            "mq2_value": 153,
+            "flame_detected": false,
+            "heart_rate": 62.0,
+            "heart_rate_avg": 62.0,
+            "spo2": 97.8,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:44:23",
+            "temperature": 39.9,
+            "mq2_value": 150,
+            "flame_detected": false,
+            "heart_rate": 60.0,
+            "heart_rate_avg": 60.0,
+            "spo2": 97.8,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:44:25",
+            "temperature": 36.0,
+            "mq2_value": 141,
+            "flame_detected": false,
+            "heart_rate": 60.5,
+            "heart_rate_avg": 60.0,
+            "spo2": 98.4,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:44:27",
+            "temperature": 39.5,
+            "mq2_value": 145,
+            "flame_detected": false,
+            "heart_rate": 61.5,
+            "heart_rate_avg": 61.0,
+            "spo2": 98.8,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:44:29",
+            "temperature": 39.7,
+            "mq2_value": 147,
+            "flame_detected": false,
+            "heart_rate": 64.0,
+            "heart_rate_avg": 64.0,
+            "spo2": 98.8,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:44:31",
+            "temperature": 35.5,
+            "mq2_value": 142,
+            "flame_detected": false,
+            "heart_rate": 64.0,
+            "heart_rate_avg": 64.0,
+            "spo2": 99.2,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:44:33",
+            "temperature": 35.3,
+            "mq2_value": 143,
+            "flame_detected": false,
+            "heart_rate": 61.5,
+            "heart_rate_avg": 61.0,
+            "spo2": 99.0,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:44:35",
+            "temperature": 36.2,
+            "mq2_value": 147,
+            "flame_detected": false,
+            "heart_rate": 64.0,
+            "heart_rate_avg": 64.0,
+            "spo2": 98.4,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:44:37",
+            "temperature": 40.0,
+            "mq2_value": 140,
+            "flame_detected": false,
+            "heart_rate": 66.0,
+            "heart_rate_avg": 66.0,
+            "spo2": 98.6,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:44:39",
+            "temperature": 38.4,
+            "mq2_value": 149,
+            "flame_detected": false,
+            "heart_rate": 66.0,
+            "heart_rate_avg": 66.0,
+            "spo2": 98.0,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:44:41",
+            "temperature": 38.7,
+            "mq2_value": 150,
+            "flame_detected": false,
+            "heart_rate": 67.5,
+            "heart_rate_avg": 67.0,
+            "spo2": 98.4,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:44:43",
+            "temperature": 35.8,
+            "mq2_value": 148,
+            "flame_detected": false,
+            "heart_rate": 68.5,
+            "heart_rate_avg": 68.0,
+            "spo2": 98.0,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:44:45",
+            "temperature": 37.9,
+            "mq2_value": 147,
+            "flame_detected": false,
+            "heart_rate": 69.5,
+            "heart_rate_avg": 69.0,
+            "spo2": 98.2,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:44:47",
+            "temperature": 39.7,
+            "mq2_value": 145,
+            "flame_detected": false,
+            "heart_rate": 69.5,
+            "heart_rate_avg": 69.0,
+            "spo2": 98.0,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:44:49",
+            "temperature": 35.5,
+            "mq2_value": 147,
+            "flame_detected": false,
+            "heart_rate": 68.0,
+            "heart_rate_avg": 68.0,
+            "spo2": 98.6,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:44:51",
+            "temperature": 36.5,
+            "mq2_value": 149,
+            "flame_detected": false,
+            "heart_rate": 69.0,
+            "heart_rate_avg": 69.0,
+            "spo2": 98.4,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:44:53",
+            "temperature": 35.5,
+            "mq2_value": 150,
+            "flame_detected": false,
+            "heart_rate": 70.5,
+            "heart_rate_avg": 70.0,
+            "spo2": 99.0,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:44:55",
+            "temperature": 37.5,
+            "mq2_value": 150,
+            "flame_detected": false,
+            "heart_rate": 70.5,
+            "heart_rate_avg": 70.0,
+            "spo2": 98.8,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:44:57",
+            "temperature": 39.5,
+            "mq2_value": 151,
+            "flame_detected": false,
+            "heart_rate": 72.5,
+            "heart_rate_avg": 72.0,
+            "spo2": 98.4,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:44:59",
+            "temperature": 37.2,
+            "mq2_value": 150,
+            "flame_detected": false,
+            "heart_rate": 72.5,
+            "heart_rate_avg": 72.0,
+            "spo2": 99.0,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:45:01",
+            "temperature": 37.1,
+            "mq2_value": 151,
+            "flame_detected": false,
+            "heart_rate": 71.0,
+            "heart_rate_avg": 71.0,
+            "spo2": 99.6,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:45:03",
+            "temperature": 37.9,
+            "mq2_value": 151,
+            "flame_detected": false,
+            "heart_rate": 69.5,
+            "heart_rate_avg": 69.0,
+            "spo2": 99.8,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:45:05",
+            "temperature": 38.6,
+            "mq2_value": 151,
+            "flame_detected": false,
+            "heart_rate": 71.0,
+            "heart_rate_avg": 71.0,
+            "spo2": 99.6,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:45:07",
+            "temperature": 35.5,
+            "mq2_value": 152,
+            "flame_detected": false,
+            "heart_rate": 73.0,
+            "heart_rate_avg": 73.0,
+            "spo2": 99.2,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:45:09",
+            "temperature": 35.1,
+            "mq2_value": 151,
+            "flame_detected": false,
+            "heart_rate": 71.0,
+            "heart_rate_avg": 71.0,
+            "spo2": 99.4,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:45:11",
+            "temperature": 37.0,
+            "mq2_value": 150,
+            "flame_detected": false,
+            "heart_rate": 69.5,
+            "heart_rate_avg": 69.0,
+            "spo2": 99.0,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:45:13",
+            "temperature": 37.3,
+            "mq2_value": 151,
+            "flame_detected": false,
+            "heart_rate": 72.0,
+            "heart_rate_avg": 72.0,
+            "spo2": 99.6,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:45:15",
+            "temperature": 36.3,
+            "mq2_value": 151,
+            "flame_detected": false,
+            "heart_rate": 69.5,
+            "heart_rate_avg": 69.0,
+            "spo2": 99.4,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:45:17",
+            "temperature": 38.7,
+            "mq2_value": 150,
+            "flame_detected": false,
+            "heart_rate": 69.5,
+            "heart_rate_avg": 69.0,
+            "spo2": 99.6,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:45:19",
+            "temperature": 36.6,
+            "mq2_value": 148,
+            "flame_detected": false,
+            "heart_rate": 67.0,
+            "heart_rate_avg": 67.0,
+            "spo2": 100.0,
+            "alert_status": "ALERT"
+        },
+        {
+            "timestamp": "16:45:21",
+            "temperature": 35.0,
+            "mq2_value": 149,
+            "flame_detected": false,
+            "heart_rate": 65.0,
+            "heart_rate_avg": 65.0,
+            "spo2": 100.0,
+            "alert_status": "ALERT"
+        }
+    ]
+}

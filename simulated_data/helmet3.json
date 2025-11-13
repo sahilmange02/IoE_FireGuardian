@@ -1,0 +1,11 @@
+{
+  "helmet_id": "H3",
+  "name": "Maria Garcia",
+  "temperature": 33.1,
+  "humidity": 55.8,
+  "mq2_value": 250,
+  "flame_detected": true,
+  "alert_status": "Smoke Alert",
+  "heartRate": 72,
+  "spo2": 98
+}

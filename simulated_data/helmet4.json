@@ -1,0 +1,11 @@
+{
+  "helmet_id": "H4",
+  "name": "David Chen", 
+  "temperature": 27.5,
+  "humidity": 65.5,
+  "mq2_value": 150,
+  "flame_detected": false,
+  "alert_status": "Normal",
+  "heartRate": 70,
+  "spo2": 99
+}
